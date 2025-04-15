@@ -6,7 +6,7 @@ important :
  Merci.
 
 Les fichier se trouvant ici sont les fichiers de liaisons, de paramètre, de dessign et les autres aplications pouvant être utiliser avec la calculatrice.
-Si vous souhaiter calculer, utiliser principal_calculatrice.exe pour des opérations simple, sinon fr-simplecode0.2, un langage de code basé sur des opérations complets avec des variables numériques et des boucles.
+Si vous souhaiter calculer, utiliser principal_calculatrice.exe pour des opérations simple, sinon fr-simplecode0.2, un langage de code basé sur des opérations complets avec des variables numériques et des boucles. (les extensions .frc sont choisi automatiquement si pas de .txt pour les modules script à importer avec [[[{use_script(cheminduscript.frc;valeurdeinput)[nomduscriptvisezdanslefichier]}]]] qui execute le #nomduscriptvisezdanslefichier[[[{print("script")}]]] (ici affiche 'script'))
 
 Les autres applications proposer sont là pour jouer, notamment les labyrinthe.exe (vous pouver changer vôtre terrain en modifiant le fichier labyrinthe_map_calculatrice.txt).
 
