@@ -12,4 +12,6 @@ Les autres applications proposer sont là pour jouer, notamment les labyrinthe.e
 
 Un guide vous est également proposé si vous souhaité programmé vos propres application utilisants l'interface de la calculatrice : guide_interface_calculatrice3.exe (pas de nouvelle versions pour la 3.1 car il y à très peut de changement dans les commandes)
 
-(update fr-simplecode0.2 : ajout de la connection server tcp grâce à la commande --server:'vôtre_port' (exemple de code python comme client: python_socket.py) + corection de bug et fonction speak()/parle() améliorer)
+(update fr-simplecode0.2 : ajout de la connection server tcp grâce à la commande --server:'vôtre_port' (exemple de code python comme client: python_socket.py) + corection de bug et fonction speak()/parle() améliorer) 
+
++ pour les versions plus récentes de fr-simplecode, aller sur mon dépot github fr-simplecode : https://github.com/argentrocher/fr-simplecode.
